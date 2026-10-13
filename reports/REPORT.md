@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Nguyen Quang Tuan / 02470  **Commit:** cập nhật sau khi commit bài  **Điểm tự động (`make grade`):** 84 / 88 (4 điểm SLO hidden do giảng viên chấm)
+**Họ tên / nhóm:** Nguyen Quang Tuan / 02470  **Commit:** ba036a9  **Điểm tự động (`make grade`):** 84 / 88 (4 điểm SLO hidden do giảng viên chấm)
 
 ## 1. Kết quả Game Day
 
